@@ -24,6 +24,13 @@ CREATE TABLE divulgar(
     id_cachorro INT AUTO_INCREMENT PRIMARY KEY,
     nome_cachorro TEXT,
     raca TEXT,
-    idade_usuario INT,
-    id_cachorro INT,
-    FOREIGN KEY (id_cachorro) REFERENCES divulgar(id)
+    sexo_cachorro TEXT,
+    idade_cachorro DOUBLE,
+    peso_cachorro DOUBLE
+);
+INSERT INTO divulgar(nome_cachorro, raca, sexo_cachorro, idade_cachorro, peso_cachorro) VALUES
+('Rabito', 'Pitbull', 'Macho', 2.6, 6.8),
+('Scobby', 'SRD', 'Macho', 3, 6.9),
+('Dudu', 'Pitbull', 'Macho', 2, 7.6),
+('Lua', 'SRD', 'Fêmea', 0.3, 2.3),
+('Mel', 'Golden', 'Fêmea', 5, 10)
