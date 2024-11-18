@@ -1,0 +1,29 @@
+--Dados e informações utilizadas para a obtenção dos resultados esperados 
+
+Criar banco de dados:
+CREATE DATABASE siteadocaophp;
+
+Tabela adotar:
+CREATE TABLE adotar(
+    id_usuario INT AUTO_INCREMENT PRIMARY KEY,
+    nome_usuario TEXT,
+    endereco VARCHAR(50),
+    idade_usuario INT,
+    id_cachorro INT,
+    FOREIGN KEY (id_cachorro) REFERENCES divulgar(id)
+);
+INSERT INTO adotar(nome_usuario, endereco, idade_usuario, id_cachorro) VALUES
+('Maria Jayane', 'Crateús', 18, 2),
+('Bianca', 'Crateús', 16, 1),
+('Marillya', 'Rio de Janeiro', 18, 12),
+('Bruno', 'Nova Russas', 24, 13),
+('Yasmin', 'São Paulo', 19, 14);
+
+Tabela divulgar:
+CREATE TABLE divulgar(
+    id_cachorro INT AUTO_INCREMENT PRIMARY KEY,
+    nome_cachorro TEXT,
+    raca TEXT,
+    idade_usuario INT,
+    id_cachorro INT,
+    FOREIGN KEY (id_cachorro) REFERENCES divulgar(id)
