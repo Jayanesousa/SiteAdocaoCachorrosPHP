@@ -6,3 +6,5 @@ A tabela adotar, tem o objetivo de guardar as informações dos adotadores dos c
 Neste trabalho, além de conter as informações descritas acima, contém um gráfico de colunas, onde mostra qual ação tem sido mais realizada, se fosse a adoção de cães ou se foi a divulgação dos mesmos, o gráfico foi feito baseado nos dados que se encontram no documento nomeado banco.text, que está publicado neste trabalho.
 
 ## Resultados Esperados
+
+<img src="/Documentos/site/img1.png
