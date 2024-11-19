@@ -10,4 +10,9 @@ Neste trabalho, além de conter as informações descritas acima, contém um gr�
 ![img1](https://github.com/user-attachments/assets/80210ba3-b9e7-4b88-b780-759f1c351d09)
 ![img2](https://github.com/user-attachments/assets/75ce15e6-f774-4e1b-ad63-10e2e0d86d98)
 ![img3](https://github.com/user-attachments/assets/1a5692a6-8d3c-4877-9102-ec6782178f08)
+![img4](https://github.com/user-attachments/assets/35bad497-baa5-4b4b-913a-cf9b59aeabe5)
+![img5](https://github.com/user-attachments/assets/eb1dbd8a-70c2-42de-88a6-4138edcc73e0)
+![img6](https://github.com/user-attachments/assets/6d48154f-3207-427b-9d25-9bbce60edb36)
+![img7](https://github.com/user-attachments/assets/f6374c00-065e-402f-90f7-26bb621d8bfd)
+![img8](https://github.com/user-attachments/assets/db5b827b-cc32-4cde-85e8-06c35cfebdda)
 
