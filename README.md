@@ -7,4 +7,4 @@ Neste trabalho, além de conter as informações descritas acima, contém um gr�
 
 ## Resultados Esperados
 
-<img src="site/img1.png">
+<img src="Documentos/site/img1.png">
